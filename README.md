@@ -1,7 +1,7 @@
 # Mandi Market Application
 
-_Access Current Daily Price of Various Commodities from various Markets_
-Application fetches data dynamically from the governmental portal via API in the form of JSON format which is processed with AJAX using XMLHttpObject. Various features like getting thorough details of different the Markets, Crops, Prices (min, max) , Sorting the Details by Crop name, State name, Price of the Commodities.<br/> There is Search Box to fetch specific Market details or via Crop Name.<br/>
+_Access Current Daily Price of Various Commodities from various Markets_<br/>
+Application pull data dynamically from the governmental portal via API in the form of JSON format which is processed with AJAX using XMLHttpObject. Various features like getting thorough details of different the Markets, Crops, Prices (min, max) , Sorting the Details by Crop name, State name, Price of the Commodities.<br/> There is Search Box to fetch specific Market details or via Crop Name.<br/>
 **NOTE - _By default only Top 10 items can be pulled from the API which is available for the public use._ Follow the below links for more details.** 
 
 
