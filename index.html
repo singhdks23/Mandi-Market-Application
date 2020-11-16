@@ -1,0 +1,43 @@
+    <!-- Mandi App developed by 
+        Name : Deepak Kumar Singh 
+        Reg : 17BCE10033
+        Note : 
+            1. CSS , Scirpt files are merged in the index.html file
+            2. Ajax is used to fetech the API data from the given source
+            3. Custom CSS used through out the application
+    -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyMandiMart</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+    <!-- header -->
+    <div class="appheader">
+        <h1>Mandi Portal</h1>
+        <p>Get Complete Details of the Market</p>
+    </div><br>
+
+    <!-- Button collections -->
+    <div>
+        <button id="btn">Get Mandi Details</button>
+        <button id="btn_sort">Sort By Price </button>
+        <button id="btn_sort_district">Sort By District</button>
+        <button id="btn_sort_state">Sort By State</button>
+        <br>
+    </div>
+    <br>
+    <input id="text1" placeholder="Enter Market / Crop Name">
+    <label> </label>
+    <button id="textbtn">Search</button>
+    <div id="lastUpdated"></div>
+    <div id="display_mandi"></div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

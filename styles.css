@@ -1,0 +1,71 @@
+.mandi_location {
+    display: flex; 
+    flex-direction: column;
+    background: #e6f2ff ;
+    padding: 4px;
+    margin-bottom: 9px;
+}
+
+.mandi_location ul{
+    list-style: none;
+}
+
+.mandi_location li{
+    text-decoration: lavender;
+    font-family: cursive;
+}
+
+#btn{
+    border-radius: 13px;
+    border: 2px solid #238be0;
+    padding: 10px;
+    width: 130px;
+    height: 50px; 
+}
+#btn_sort{
+    border-radius: 13px;
+    border: 2px solid #73AD21;
+    padding: 10px;
+    width: 130px;
+    height: 50px; 
+}
+#btn_sort_district{
+    border-radius: 13px;
+    border: 2px solid #cf8b54;
+    padding: 10px;
+    width: 130px;
+    height: 50px; 
+}
+#btn_sort_state{
+    border-radius: 13px;
+    border: 2px solid #73AD21;
+    padding: 10px;
+    width: 130px;
+    height: 50px; 
+}
+#textbtn{
+    border-radius: 45px;
+    border: 2px solid #238be0;
+    padding: 8px;
+    width: 90px;
+    height: 40px; 
+}
+#text1{
+    text-align: center;
+    border-radius: 0px;
+    border: 2px solid #cf8b54;
+    padding: 8px;
+    width: 180px;
+    height: 13px; 
+}
+#lastUpdated {
+    text-align: right;
+}
+.appheader{
+    padding: 10px;
+    text-align: center;
+    background: #59bef8;
+    color: white;
+    font-size: 15px;
+}
+
