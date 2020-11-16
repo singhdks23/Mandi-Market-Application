@@ -18,10 +18,10 @@ Application fetches data dynamically from the governmental portal via API in the
 - Find out the difference between the maximum and the minimum price of the crops.
 
 - Try out the search out by typing Crop / Market name
-- ![search_feature](./search.png)
+   ![search_feature](./search.png)
 
 - Display the time and date of last update / keeps automatically synchronized.
-- ![update_time_date](./timendate.png)
+   ![update_time_date](./timendate.png)
 
 - ~~_ Still counting..._~~
 
