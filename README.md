@@ -12,16 +12,16 @@ Application fetches data dynamically from the governmental portal via API in the
 - Get Complete Details of the Commodities.
 
 - Sort the details by Price, Crops / State / Market name.
-1.![sorting_feature](./sorting.png)
+![sorting_feature](./sorting.png)
 - Application fetches the data dynamically and periodically check for the updated price of the crops.
 
 - Find out the difference between the maximum and the minimum price of the crops.
 
 - Try out the search out by typing Crop / Market name
-2.![search_feature](./search.png)
+![search_feature](./search.png)
 
 - Display the time and date of last update / keeps automatically synchronized.
-3.![update_time_date](./timendate.png)
+![update_time_date](./timendate.png)
 
 - ~~_ Still counting..._~~
 
